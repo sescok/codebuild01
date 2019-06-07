@@ -4,3 +4,7 @@ Codebuild Test Cod01
 
 Codebuild Test Hook01
 ![Build Status](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSnk4WUZmN1QzWFZWejd1WmU4NXVDN0tyUzVsK1JzWU1aSkgvRmZoK1o2RTIxSFJVTmpXc0R3OTRXaVNnalgreGtyaVptcjZ1Wno4cFN4ZVY1ZWZvZVJNPSIsIml2UGFyYW1ldGVyU3BlYyI6InN3Mlh6T3BQc3g3aGs4S3QiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
+Codebuild Test stage Branch Hook01
+![Build Status](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSnk4WUZmN1QzWFZWejd1WmU4NXVDN0tyUzVsK1JzWU1aSkgvRmZoK1o2RTIxSFJVTmpXc0R3OTRXaVNnalgreGtyaVptcjZ1Wno4cFN4ZVY1ZWZvZVJNPSIsIml2UGFyYW1ldGVyU3BlYyI6InN3Mlh6T3BQc3g3aGs4S3QiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=stage)
+
