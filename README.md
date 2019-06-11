@@ -1,6 +1,0 @@
-# codebuild01
-Codebuild Test Cod001 MASTER
-![Build Status](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiOWh4d3JSM0dKSzhZVkFESTJ5S29jRGR4Tk9oZ1FZYWZ4Y1RQbEg2Nm5xUnQrUGdLNGsreEZTc1lUMkM0bDljMXB5cnVWcXJpRVVFckdsWDJNUEJyS0M0PSIsIml2UGFyYW1ldGVyU3BlYyI6IjlYY1YvcTN1L2cwMDdsaE0iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
-
-Codebuild Test Cod001 STAGE
-![Build Status](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiOWh4d3JSM0dKSzhZVkFESTJ5S29jRGR4Tk9oZ1FZYWZ4Y1RQbEg2Nm5xUnQrUGdLNGsreEZTc1lUMkM0bDljMXB5cnVWcXJpRVVFckdsWDJNUEJyS0M0PSIsIml2UGFyYW1ldGVyU3BlYyI6IjlYY1YvcTN1L2cwMDdsaE0iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=stage)
